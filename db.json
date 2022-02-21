@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Santiago ",
+      "empresa": "SAdeVC",
+      "email": "martisamo@gmail.com",
+      "telefono": "5511401132",
+      "notas": "Notas de Prueba",
+      "id": 2
+    },
+    {
+      "nombre": "Ariel",
+      "empresa": "SAdeVC",
+      "email": "martisamo@gmail.com",
+      "telefono": "5511401132",
+      "notas": "Notas de Prueba",
+      "id": 3
+    },
+    {
+      "nombre": "Carla",
+      "empresa": "Taquitos Sudados xd",
+      "email": "carla@taquitossudadosxd.com",
+      "telefono": "2226519907",
+      "notas": "Taquitos Sudados jeje",
+      "id": 5
+    },
+    {
+      "nombre": "Carlos",
+      "empresa": "Chevechitas",
+      "email": "carlos@chevechitas.net",
+      "telefono": "1234567890",
+      "notas": "xD",
+      "id": 7
+    }
+  ]
+}
